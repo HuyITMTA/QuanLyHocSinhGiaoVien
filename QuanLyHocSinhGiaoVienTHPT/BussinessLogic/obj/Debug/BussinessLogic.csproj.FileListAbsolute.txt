@@ -1,0 +1,7 @@
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\BussinessLogic\bin\Debug\BussinessLogic.dll
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\BussinessLogic\bin\Debug\BussinessLogic.pdb
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\BussinessLogic\bin\Debug\DataAccess.dll
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\BussinessLogic\bin\Debug\DataAccess.pdb
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\BussinessLogic\obj\Debug\BussinessLogic.dll
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\BussinessLogic\obj\Debug\BussinessLogic.pdb

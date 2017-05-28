@@ -1,0 +1,5 @@
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\DataAccess\bin\Debug\DataAccess.dll
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\DataAccess\obj\Debug\DataAccess.dll
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\DataAccess\obj\Debug\DataAccess.pdb

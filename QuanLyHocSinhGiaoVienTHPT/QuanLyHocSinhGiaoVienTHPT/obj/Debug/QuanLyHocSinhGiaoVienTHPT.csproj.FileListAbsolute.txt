@@ -1,0 +1,32 @@
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe.config
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Form1.resources
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Properties.Resources.resources
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csproj.GenerateResource.Cache
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.exe
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.dll
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.dll
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.pdb
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.pdb
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csprojResolveAssemblyReference.cache
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmGiaoVien.resources
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmHocSinh.resources
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmLop.resources
+c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmDangNhap.resources
+C:\Users\LAPTOP88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmMonHoc.resources
+C:\Users\LAPTOP88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmLichDay.resources
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe.config
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.exe
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.dll
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.dll
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.pdb
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.pdb
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Form1.resources
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Properties.Resources.resources
+C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csproj.GenerateResource.Cache

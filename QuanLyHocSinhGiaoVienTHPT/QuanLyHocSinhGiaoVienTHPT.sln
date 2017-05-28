@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHocSinhGiaoVienTHPT", "QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT.csproj", "{C131FA5D-6294-47D0-B197-11C1E1BF2656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B974793D-7B48-4DEA-B57B-6346CD1BCE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{40F6BD05-E599-4733-8A30-369CF368ACEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C131FA5D-6294-47D0-B197-11C1E1BF2656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C131FA5D-6294-47D0-B197-11C1E1BF2656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C131FA5D-6294-47D0-B197-11C1E1BF2656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C131FA5D-6294-47D0-B197-11C1E1BF2656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B974793D-7B48-4DEA-B57B-6346CD1BCE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B974793D-7B48-4DEA-B57B-6346CD1BCE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B974793D-7B48-4DEA-B57B-6346CD1BCE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B974793D-7B48-4DEA-B57B-6346CD1BCE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F6BD05-E599-4733-8A30-369CF368ACEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F6BD05-E599-4733-8A30-369CF368ACEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F6BD05-E599-4733-8A30-369CF368ACEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F6BD05-E599-4733-8A30-369CF368ACEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
