@@ -30,3 +30,6 @@ C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienT
 C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Form1.resources
 C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Properties.Resources.resources
 C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csproj.GenerateResource.Cache
+E:\tt_nhom\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe.config
+E:\tt_nhom\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.exe
+E:\tt_nhom\QuanLyHocSinhGiaoVien\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
