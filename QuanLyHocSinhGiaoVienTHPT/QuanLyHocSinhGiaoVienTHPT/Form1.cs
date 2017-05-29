@@ -26,6 +26,13 @@ namespace QuanLyHocSinhGiaoVienTHPT
         private void tabMenu_Selected(object sender, TabControlEventArgs e)
         {
 
+            //Load form học sinh
+            FrmHocSinh frmHS = new FrmHocSinh();
+            frmHS.TopLevel = false;
+            frmHS.Parent = tabHocSinh;
+            frmHS.Show();
+            frmHS.Dock = DockStyle.Fill;
+
         }
 
     }

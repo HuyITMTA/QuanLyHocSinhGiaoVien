@@ -17,16 +17,17 @@ c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHP
 c:\users\laptop88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmDangNhap.resources
 C:\Users\LAPTOP88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmMonHoc.resources
 C:\Users\LAPTOP88\documents\visual studio 2015\Projects\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmLichDay.resources
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe.config
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.exe
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.dll
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.dll
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.pdb
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.pdb
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csprojResolveAssemblyReference.cache
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Form1.resources
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Properties.Resources.resources
-C:\Users\LAPTOP88\Desktop\Huong\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csproj.GenerateResource.Cache
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe.config
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.exe
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Form1.resources
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.FrmHocSinh.resources
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.Properties.Resources.resources
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\obj\Debug\QuanLyHocSinhGiaoVienTHPT.csproj.GenerateResource.Cache
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.exe
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\QuanLyHocSinhGiaoVienTHPT.pdb
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.dll
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.dll
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\BussinessLogic.pdb
+C:\Users\LAPTOP88\Desktop\Hau\QuanLyHocSinhGiaoVienTHPT\QuanLyHocSinhGiaoVienTHPT\bin\Debug\DataAccess.pdb
