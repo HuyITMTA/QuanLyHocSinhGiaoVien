@@ -26,6 +26,19 @@ namespace QuanLyHocSinhGiaoVienTHPT
         private void tabMenu_Selected(object sender, TabControlEventArgs e)
         {
 
+            //Load form lớp
+            FrmLop frmlop = new FrmLop();
+            frmlop.TopLevel = false;
+            frmlop.Parent = tabLop;
+            frmlop.Show();
+            frmlop.Dock = DockStyle.Fill;
+
+            //Load form môn học
+            FrmMonHoc frmmonhoc = new FrmMonHoc();
+            frmmonhoc.TopLevel = false;
+            frmmonhoc.Parent = tabMonHoc;
+            frmmonhoc.Show();
+            frmmonhoc.Dock = DockStyle.Fill;
         }
 
     }
