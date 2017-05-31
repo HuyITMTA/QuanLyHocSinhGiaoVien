@@ -12,6 +12,7 @@ namespace QuanLyHocSinhGiaoVienTHPT
 {
     public partial class Form1 : Form
     {
+        public static string quyen;
         public Form1()
         {
             InitializeComponent();
@@ -21,6 +22,10 @@ namespace QuanLyHocSinhGiaoVienTHPT
         {
             TabControl tc = new TabControl();
             tc.Dock = DockStyle.Fill;
+            if(quyen == "user")
+            {
+                thoátToolStripMenuItem.Enabled = false;
+            }
         }
 
         private void tabMenu_Selected(object sender, TabControlEventArgs e)
@@ -28,5 +33,35 @@ namespace QuanLyHocSinhGiaoVienTHPT
 
         }
 
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult XN = MessageBox.Show("Bạn có chắc muốn đăng xuất?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if(XN == DialogResult.Yes)
+            {
+                Dispose();
+                FrmDangNhap dangnhap = new FrmDangNhap();
+                dangnhap.Show();
+            }
+        }
+
+        private void thoátToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            DialogResult XN = MessageBox.Show("Bạn có chắc muốn thoát?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if(XN == DialogResult.OK)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmQuanLyTaiKhoan frmql = new FrmQuanLyTaiKhoan();
+            frmql.Show();
+        }
+
+        private void tabLop_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

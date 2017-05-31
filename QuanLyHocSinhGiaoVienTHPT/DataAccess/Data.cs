@@ -30,7 +30,8 @@ namespace DataAccess
             SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            conn.Close();
+            //conn.Close();
         }
     }
 }
+
