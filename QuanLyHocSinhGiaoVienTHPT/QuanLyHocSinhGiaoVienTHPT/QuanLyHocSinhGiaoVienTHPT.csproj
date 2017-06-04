@@ -58,10 +58,28 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmLichDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLichDay.Designer.cs">
+      <DependentUpon>FrmLichDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHDSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHDSD.Designer.cs">
+      <DependentUpon>FrmHDSD.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLichDay.resx">
+      <DependentUpon>FrmLichDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHDSD.resx">
+      <DependentUpon>FrmHDSD.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -71,6 +89,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -84,6 +103,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10-ngoi-truong-co-kien-truc-dep-nhat-viet-nam-36934.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
